@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Demo Kelas Prakerja</name>
+      <description lang="en-US">Salah satu hal yang kalian bisa lakukan untuk menggunakan media sosial untuk bisnis kalian adalah melakukan social media advertising. Social media advertising merupakan pengiklanan melalui media sosial. Walaupun terdengar sederhana, banyak sekali variabel yang terdapat pada social media advertising termasuk platform pilihan, audiens, demografi, konten, serta tools yang bisa digunakan, sehingga social media advertising pun memiliki ruang pembelajaran yang cukup luas dan mendalam.&lt;br&gt;&lt;a href=&#34;http://%3Ciframe%20src=%22https%3A//lingkaran-prakerja.tribe.so/group/kelas-management-hukum%22%20name=%22iframe_a%22%20height=%22600px%22%20width=%22100%%22%20title=%22Iframe%20Example%22%3E%3C/iframe%3E&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;&lt;span style=&#34;color: rgb(237, 106, 81);&#34;&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;</description>
+      <launch lang="en-US">index.html?eyJjcHYiOiJ5dDA1WTNjSyIsInJsZCI6ZmFsc2V9</launch>
+    </activity>
+      <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/0OgZa_ttNf6hMTmRyv-cOdry6u2MaWG3" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Lesson 01/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/egjoytXsgsvBDOqeZ17B-07z7nkYGEuW" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Kuis 01/quiz</name>
+      <description lang="en-US"></description>
+    </activity>
+            
+    <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/egjoytXsgsvBDOqeZ17B-07z7nkYGEuW/ckmvwcel90004356ejo7vmc43" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Pertanyaan 1</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckmvwcel90005356egqekk7ap</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckmvwcel90005356egqekk7ap</id>
+        <description lang="en-US">Jawaban A</description>
+      </component>
+            <component>
+        <id>choice_ckmvwcel90006356ep21qewdo</id>
+        <description lang="en-US">Jawaban B</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/egjoytXsgsvBDOqeZ17B-07z7nkYGEuW/ckmvwiz5z003p356ea8ln5lew" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Pertanyaan 2</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckmvwiz5z003q356egozftnjg</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckmvwiz5z003q356egozftnjg</id>
+        <description lang="en-US">Jawaban A</description>
+      </component>
+            <component>
+        <id>choice_ckmvwiz5z003r356eff89mxxw</id>
+        <description lang="en-US">Jawaban B</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/egjoytXsgsvBDOqeZ17B-07z7nkYGEuW/ckmvwjzd9003s356e9irs9myl" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Pertanyaan 3</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckmvwjzd9003t356e3ezoep3l</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckmvwjzd9003t356e3ezoep3l</id>
+        <description lang="en-US">Jawaban A</description>
+      </component>
+            <component>
+        <id>choice_ckmvwjzd9003u356ep8jvpvj6</id>
+        <description lang="en-US">Jawaban B</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/egjoytXsgsvBDOqeZ17B-07z7nkYGEuW/ckmvwk0nt003v356ebzm833ch" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Pertanyaan 4</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckmvwk0nt003w356e9ttaibij</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckmvwk0nt003w356e9ttaibij</id>
+        <description lang="en-US">Jawaban A</description>
+      </component>
+            <component>
+        <id>choice_ckmvwk0nt003x356egm4sk1mp</id>
+        <description lang="en-US">Jawaban B</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/egjoytXsgsvBDOqeZ17B-07z7nkYGEuW/ckmvwk1ok003y356essdeq6ln" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Pertanyaan 5</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckmvwk1ok003z356ecblqytad</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckmvwk1ok003z356ecblqytad</id>
+        <description lang="en-US">Jawaban A</description>
+      </component>
+            <component>
+        <id>choice_ckmvwk1ok0040356euvl7uapv</id>
+        <description lang="en-US">Jawaban B</description>
+      </component>
+            </choices>
+          </activity>
+              <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/wSaqmSUArDA_AWK5ZRgcqy-QKk3lDkmb" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Lesson 02/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/IgZPKyYgvxOSFzo6SYp_wuwbNlMrfaS2" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Kuis 02/quiz</name>
+      <description lang="en-US"></description>
+    </activity>
+            
+    <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/IgZPKyYgvxOSFzo6SYp_wuwbNlMrfaS2/ckmvwcel90004356ejo7vmc43" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Pertanyaan 1</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckmvwcel90005356egqekk7ap</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckmvwcel90005356egqekk7ap</id>
+        <description lang="en-US">Jawaban A</description>
+      </component>
+            <component>
+        <id>choice_ckmvwcel90006356ep21qewdo</id>
+        <description lang="en-US">Jawaban B</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/IgZPKyYgvxOSFzo6SYp_wuwbNlMrfaS2/ckmvwiz5z003p356ea8ln5lew" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Pertanyaan 2</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckmvwiz5z003q356egozftnjg</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckmvwiz5z003q356egozftnjg</id>
+        <description lang="en-US">Jawaban A</description>
+      </component>
+            <component>
+        <id>choice_ckmvwiz5z003r356eff89mxxw</id>
+        <description lang="en-US">Jawaban B</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/IgZPKyYgvxOSFzo6SYp_wuwbNlMrfaS2/ckmvwjzd9003s356e9irs9myl" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Pertanyaan 3</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckmvwjzd9003t356e3ezoep3l</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckmvwjzd9003t356e3ezoep3l</id>
+        <description lang="en-US">Jawaban A</description>
+      </component>
+            <component>
+        <id>choice_ckmvwjzd9003u356ep8jvpvj6</id>
+        <description lang="en-US">Jawaban B</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/IgZPKyYgvxOSFzo6SYp_wuwbNlMrfaS2/ckmvwk0nt003v356ebzm833ch" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Pertanyaan 4</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckmvwk0nt003w356e9ttaibij</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckmvwk0nt003w356e9ttaibij</id>
+        <description lang="en-US">Jawaban A</description>
+      </component>
+            <component>
+        <id>choice_ckmvwk0nt003x356egm4sk1mp</id>
+        <description lang="en-US">Jawaban B</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/IgZPKyYgvxOSFzo6SYp_wuwbNlMrfaS2/ckmvwk1ok003y356essdeq6ln" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Pertanyaan 5</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckmvwk1ok003z356ecblqytad</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckmvwk1ok003z356ecblqytad</id>
+        <description lang="en-US">Jawaban A</description>
+      </component>
+            <component>
+        <id>choice_ckmvwk1ok0040356euvl7uapv</id>
+        <description lang="en-US">Jawaban B</description>
+      </component>
+            </choices>
+          </activity>
+              <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/50lZSATtawTAyw0koPow6RVyINDaVfo0" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Lesson 03/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/C59RbHqgd4c0WRgHY5ktDxq3tMqdxAjl" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Kuis 03/quiz</name>
+      <description lang="en-US"></description>
+    </activity>
+            
+    <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/C59RbHqgd4c0WRgHY5ktDxq3tMqdxAjl/ckmvwcel90004356ejo7vmc43" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Pertanyaan 1</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckmvwcel90005356egqekk7ap</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckmvwcel90005356egqekk7ap</id>
+        <description lang="en-US">Jawaban A</description>
+      </component>
+            <component>
+        <id>choice_ckmvwcel90006356ep21qewdo</id>
+        <description lang="en-US">Jawaban B</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/C59RbHqgd4c0WRgHY5ktDxq3tMqdxAjl/ckmvwiz5z003p356ea8ln5lew" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Pertanyaan 2</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckmvwiz5z003q356egozftnjg</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckmvwiz5z003q356egozftnjg</id>
+        <description lang="en-US">Jawaban A</description>
+      </component>
+            <component>
+        <id>choice_ckmvwiz5z003r356eff89mxxw</id>
+        <description lang="en-US">Jawaban B</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/C59RbHqgd4c0WRgHY5ktDxq3tMqdxAjl/ckmvwjzd9003s356e9irs9myl" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Pertanyaan 3</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckmvwjzd9003t356e3ezoep3l</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckmvwjzd9003t356e3ezoep3l</id>
+        <description lang="en-US">Jawaban A</description>
+      </component>
+            <component>
+        <id>choice_ckmvwjzd9003u356ep8jvpvj6</id>
+        <description lang="en-US">Jawaban B</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/C59RbHqgd4c0WRgHY5ktDxq3tMqdxAjl/ckmvwk0nt003v356ebzm833ch" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Pertanyaan 4</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckmvwk0nt003w356e9ttaibij</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckmvwk0nt003w356e9ttaibij</id>
+        <description lang="en-US">Jawaban A</description>
+      </component>
+            <component>
+        <id>choice_ckmvwk0nt003x356egm4sk1mp</id>
+        <description lang="en-US">Jawaban B</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/C59RbHqgd4c0WRgHY5ktDxq3tMqdxAjl/ckmvwk1ok003y356essdeq6ln" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Pertanyaan 5</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckmvwk1ok003z356ecblqytad</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckmvwk1ok003z356ecblqytad</id>
+        <description lang="en-US">Jawaban A</description>
+      </component>
+            <component>
+        <id>choice_ckmvwk1ok0040356euvl7uapv</id>
+        <description lang="en-US">Jawaban B</description>
+      </component>
+            </choices>
+          </activity>
+              <activity id="http://GB9umkVX7_cCMyByzVHmBWOn9C6HXKRP_rise/HBUasfOGZylvHFVVpN4rlJM6LBwtWjrI" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Post Test/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
